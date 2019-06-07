@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sudo Focus</string>
+    <string name="timerStartText">Timer starts in</string>
+    <string name="timerEndsIn">Timer ends in</string>
+    <string name="TaskEnd">Time is up</string>
+</resources>
